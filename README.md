@@ -13,7 +13,7 @@ Note: It only runs on android devices which support augmented reality. You can r
 ![Screenshot3](https://user-images.githubusercontent.com/55681233/118396560-b5a34a00-b66d-11eb-9b79-2e3f4cedab94.jpg)
 
 ## Other Links
-For a quick summary of our design process you can visit our [website](https://sites.google.com/iiitd.ac.in/des205-t1-ascenders/home) or read the detailed report [here](https://drive.google.com/file/d/1aCvH-rXCShGSnjv7B6tSXRVyRMFmXUVU/view?usp=sharing).
+For a quick summary of our design process you can visit our [website](https://sites.google.com/iiitd.ac.in/des205-t1-ascenders/home) or read the detailed report [here](https://www.behance.net/gallery/119508027/Animal-Safari-Interactive-App-UX).
 
 
 
