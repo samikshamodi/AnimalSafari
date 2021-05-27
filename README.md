@@ -4,6 +4,8 @@ Animal Safari is an app that aims to create wildlife awareness among children an
 Built using Unity and Vuforia for Android devices. You can download the apk from the source files above or using this [link](https://drive.google.com/drive/folders/1Cy7CGa-45IZNT1QNXNmLcjQuwi0-et2M?usp=sharing)  
 Note: It only runs on android devices which support augmented reality. You can read [this article](https://www.dignited.com/60048/how-to-know-if-your-smartphone-supports-augmented-reality-ar/#:~:text=Go%20to%20the%20Play%20store,the%20list%20of%20supported%20devices.) to find out how to check if your device supports augmented reality.
 
+Made on Unity 2020.3.2f1 and Vuforia 9.8.5
+
 ## Demo
 [![Watch the video](https://user-images.githubusercontent.com/55681233/118396479-5f360b80-b66d-11eb-93d9-8514c1a7f74c.jpg)](https://www.youtube.com/watch?v=613S6kGOazE)
 
