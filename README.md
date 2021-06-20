@@ -6,7 +6,7 @@ Note: It only runs on android devices which support augmented reality. You can r
 
 Made on Unity 2020.3.2f1 and Vuforia 9.8.5
 
-For a quick summary of our design process you can visit our [website](https://sites.google.com/iiitd.ac.in/des205-t1-ascenders/home) or read the detailed report [here](https://www.behance.net/gallery/121324207/Animal-Safari).
+For a quick summary of our design process you can visit our [website](https://sites.google.com/iiitd.ac.in/des205-t1-ascenders/home) or read the detailed report on [Behance](https://www.behance.net/gallery/121324207/Animal-Safari).
 
 ## Demo
 [![Watch the video](https://user-images.githubusercontent.com/55681233/118396479-5f360b80-b66d-11eb-93d9-8514c1a7f74c.jpg)](https://www.youtube.com/watch?v=613S6kGOazE)
